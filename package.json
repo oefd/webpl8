@@ -1,6 +1,6 @@
 {
   "name": "webpl8",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Static website templating utility / site builder.",
   "repository": {
     "type": "git",
